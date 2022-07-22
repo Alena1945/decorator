@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "decorator"
+version = "0.1.0"
+description = ""
+authors = ["Alena1945 <alena.belousova.2811@mail.ru>"]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+requests = "^2.28.1"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
